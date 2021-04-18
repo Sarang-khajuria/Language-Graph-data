@@ -1,0 +1,26 @@
+.contentarea {
+  padding: 2em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#video {
+  border: 2px solid black;
+}
+.wpr {
+  width: 100%;
+  margin-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#canvas {
+  border: 2px solid black;
+}
+
+.label {
+  margin-top: 2em;
+  width: 100%;
+  text-align: center;
+}

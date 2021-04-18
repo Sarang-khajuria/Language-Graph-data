@@ -1,0 +1,12 @@
+.param {
+  font-weight: 600;
+  margin-left: 1em;
+}
+
+.copy button {
+  display: block;
+}
+
+section {
+  margin: 15px;
+}

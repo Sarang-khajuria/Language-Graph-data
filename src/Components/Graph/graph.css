@@ -1,0 +1,8 @@
+.main-graph{
+  padding: 3em;
+}
+
+.main-graph section {
+  width: 200px;
+  display: inline-block;
+}
